@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.learning.core.day1session1.D02P02&apos; to &apos;D01P02&apos;&#x0D;&#x0A;- Original project: &apos;Day1&apos;&#x0D;&#x0A;- Original element: &apos;com.learning.core.day1session1.D02P02&apos;&#x0D;&#x0A;- Renamed element: &apos;com.learning.core.day1session1.D01P02&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;D02P02&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.learning.core.day1session1{D02P02.java[D02P02" matchStrategy="1" name="D01P02" qualified="false" references="true" similarDeclarations="false" stamp="1712748059268" textual="false" version="1.0"/>
+</session>

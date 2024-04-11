@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Hp\Desktop\Practice Exercise\Java Hands-on Mastery-S1\.metadata\.plugins\org.eclipse.jdt.core
+3723155372.index
+1865797976.index
+3380705583.index
